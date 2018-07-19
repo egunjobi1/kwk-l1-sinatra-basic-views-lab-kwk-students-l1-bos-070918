@@ -1,0 +1,26 @@
+
+body {
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/back_pic/00/15/30/4656e81f6dc57c5.jpg)
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    text-decoration: underline
+    
+}
+
+p {color: black;
+  font-weight:bold;
+  font-size: 21px;
+  font-family: 'Markazi Text', serif;
+}
+
+p1 {
+    color: #33001b;
+    font-family: verdana;
+    font-size: 20px;
+    
+}
+
+
